@@ -14,6 +14,6 @@ public class GitTest {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("This be a test, arr!");
+        System.out.println("This be a test, arr! I iz piratt!");
     }
 }
